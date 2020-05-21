@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Priyanshu Yadav</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Priyanshu Yadav</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 May 2020 14:18:57 +0530</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Priyanshu Yadav</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>IITKBucks</title>
+      <link>/project/iitkbucks/</link>
+      <pubDate>Wed, 20 May 2020 14:18:57 +0530</pubDate>
+      <guid>/project/iitkbucks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infosec IITK</title>
+      <link>/project/infosec-iitk/</link>
+      <pubDate>Wed, 20 May 2020 14:08:32 +0530</pubDate>
+      <guid>/project/infosec-iitk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
